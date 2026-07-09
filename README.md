@@ -153,7 +153,7 @@ We generated a 512x512 PNG master image dataset from the DICOM files in all <b>s
   ├─1026_axi_0.png
 ...
   ├─1001_axi_25.png
-  
+  │
   ├─1026_cor_0.png
 ...
   ├─1026_cor_15.png
@@ -161,7 +161,6 @@ We generated a 512x512 PNG master image dataset from the DICOM files in all <b>s
   ├─i1026_sag_0.png
 ...
   └─1026_sag_21.png
-
 </pre>
 <br>
 <b>Step 2</b><br>
